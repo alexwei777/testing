@@ -1,2 +1,3 @@
 # testing
-for learning
+
+Adding some more details for project description
